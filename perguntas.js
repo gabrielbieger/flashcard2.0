@@ -53,6 +53,6 @@ criaCartao(
 
 criaCartao(
     'Nova Pergunta',
-    'Isso é um teste?',
+    'Voçe esta sendo textado ?',
     'SIM'
 )
